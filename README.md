@@ -1,2 +1,17 @@
-# Lection13Webpage
-Реалізація виведення (роботи НМ) у сторонньому додатку (веб-сторінка).
+
+
+
+- скопіюйте репозиторій git clone https://github.com/EiriniMoroz/Lection13Webpage
+- встановіть pip install -r requirements.txt
+- запустіть файл python app.py
+- перейдіть на http://localhost:5000
+- завантажуйте зразки із папки uploads
+
+:point_down:Screenshot:
+
+<p align="center">
+  <img src="uploads/demo1.png" width="600px" alt="">
+</p>
+
+------------------
+
