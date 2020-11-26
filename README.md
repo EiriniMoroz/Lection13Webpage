@@ -10,7 +10,7 @@
 :point_down:Screenshot:
 
 <p align="center">
-  <img src="uploads/demo1.png" width="600px" alt="">
+  <img src="uploads/2.png" width="600px" alt="">
 </p>
 
 ------------------
